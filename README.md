@@ -2,7 +2,6 @@
 Hi, I’m Santhosh G — a passionate Flutter developer and front-end enthusiast with a strong foundation in building responsive and user-friendly applications. I specialize in React, Flutter, JavaScript, HTML, and CSS.<br><br>I have experience working with Dart, MongoDB, and modern development tools like Git and GitHub. I’m also familiar with APIs, data handling, and basic machine learning concepts.<br><br>Currently, I’m focused on strengthening my Data Structures & Algorithms and backend development skills, with a keen interest in building scalable and efficient software solutions.<br>
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_s_a_n_t_h_u_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santhosh-g-383b76262/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@santhosh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Santhosh G) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.santhoshyadav430@gmail.com) 
 
